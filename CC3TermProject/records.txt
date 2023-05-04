@@ -1,0 +1,3 @@
+Record 1:           Amitriptyline       Antidepressants     Elavil              75mg                580
+Record 2:           Adderall            Stimulants          Amphetamine         2.5mg               445
+Record 3:           Amoxicillin         Antibiotic          Amoxil              30mg                18
